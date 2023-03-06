@@ -64,11 +64,6 @@ function Footer({mobile}) {
                 {mobile && <Box color='blue.light'>Copyright 2023. All Rights Reserved</Box>}
                 <Image src={logo} pt='5px' maxWidth={['200px','150px']}/>
                 <HStack spacing='1rem' justifyContent={['space-around',null]} width='100%'>
-                    {/* <Image src={iconFacebook} cursor='pointer' height={['32px', '20px']} filter='invert(58%) sepia(54%) saturate(470%) hue-rotate(323deg) brightness(103%) contrast(95%)'></Image>
-                    <Image src={iconYoutube} cursor='pointer' height={['32px', '20px']}></Image>
-                    <Image src={iconTwitter} cursor='pointer' height={['32px', '20px']}></Image>
-                    <Image src={iconPinterest} cursor='pointer' height={['32px', '20px']}></Image>
-                    <Image src={iconInstagram} cursor='pointer' height={['32px', '20px']}></Image> */}
                     {icons.map((icon, index)=>{
                         return <Image 
                                     key={index} 

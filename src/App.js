@@ -64,8 +64,6 @@ function App() {
 
   return (
     <Box overflowX='hidden'>
-      {/* <Image src={imgBg1} position='absolute' transform='rotate(3deg)' top={['-1%',null,'-4%']}  left={['19%',null,'50%']}></Image> */}
-      {/* <Image src={imgBg1} position='absolute' transform='rotate(3deg)' top={['-1%',null,'46%']}  left={['19%',null,'-43%']}></Image> */}
       <Box 
         bgSize= 'cover'
         bgPosition= 'center'
