@@ -20,7 +20,7 @@ function Intro() {
             id='home'
         >
             <VStack alignItems={["center", null, "flex-start"]} textAlign={["center", null, "left"]} spacing="30px">
-                <Box fontSize={['37px','6xl']} fontWeight='700' lineHeight='1.1'>Bring everyone together to build better products</Box>
+                <Box fontSize={['37px','3.35rem']} fontWeight='700' lineHeight='1.1'>Bring everyone together to build better products</Box>
                 <Box color='blue.light' maxWidth={['100%','70%']} lineHeight='1.7'>Manage makes it simple for software teams to plan day-to-day 
   tasks while keeping the larger team goals in view.</Box>
                 <Button variant='solid'>Get Started</Button>
