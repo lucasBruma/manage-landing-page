@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lucasBruma/manage-landing-page]
-- Live Site URL: [https://lucasbruma.github.io/manage-landing-page/]
+- Live Site URL: [https://manage-landing-page-three-ecru.vercel.app/]
 
 ## My process
 
